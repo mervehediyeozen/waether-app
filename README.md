@@ -4,4 +4,4 @@
 
 ### Image for Example : 
 
- ![examplephoto](/weather-api)
+ ![examplephoto](/weather-api.png)
